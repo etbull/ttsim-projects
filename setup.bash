@@ -1,1 +1,1 @@
-# Setup so that I can install this easily cross my workstations
+# Setup so that I can install this easily cross my workstations.
